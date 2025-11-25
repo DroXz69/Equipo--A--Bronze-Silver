@@ -58,6 +58,7 @@ Para realizar la ejecución del programa sigue estos pasos:
     python inspect_data.py
     ```
 
+---
 
 ## ❗ SI ES QUE HAY UN ENTORNO VIRTUAL CREADO SIGUE ESTOS PASOS. ❗
 
