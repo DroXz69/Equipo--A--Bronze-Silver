@@ -27,7 +27,7 @@ El pipeline se ejecuta secuencialmente, moviendo los datos entre capas:
 
 Para ejecutar el pipeline, necesitarás **Python 3.8+** y las dependencias listadas en `requirements.txt`.
 
-### 1. Preparación del Entorno (Una única vez)
+### 🚨 1. Preparación del Entorno (Una única vez)
 
 1.  **Crear el entorno virtual:**
     ```bash
