@@ -1,0 +1,10 @@
+## Requerimientos para el procesamiento de datos principal
+pandas>=2.0.0
+numpy>=1.20.0
+
+## Motor necesario para leer y escribir archivos Parquet
+# (Resuelve el error "Unable to find a usable engine")
+pyarrow>=10.0.0
+
+## Dependencia para la simulación del proceso Spark (si se usa PySpark)
+pyspark>=3.0.0
