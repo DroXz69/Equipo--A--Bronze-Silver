@@ -21,6 +21,19 @@ El pipeline se ejecuta secuencialmente, moviendo los datos entre capas:
         * **Manejar nulos** (e.g., fechas y edad).
     * **Destino:** Los datos limpios se guardan en `/data/silver/ventas/` como el archivo `clientes_limpio.parquet`.
 
+## 👤👤 Equipo de Integrantes. 👤👤
+
+Equipo A Bronze/Silver 5 Diciembre.
+
+* **Daniel Garrido**
+* **Víctor Faúndez**
+* **Camilo Jeldres**
+* **Bruno Polo**
+
+`Sección: TI2081/D-IEI-N8-P1-C2/D Renca IEI`
+
+`Big Data`
+
 ---
 
 ## 🛠️ Requisitos e Instalación
