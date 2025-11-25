@@ -75,7 +75,7 @@ Para realizar la ejecución del programa sigue estos pasos:
 
 ---
 
-## ❗ SI ES QUE HAY UN ENTORNO VIRTUAL CREADO SIGUE ESTOS PASOS.
+# ❗ SI ES QUE HAY UN ENTORNO VIRTUAL CREADO SIGUE ESTOS PASOS.
 
 1. **Desactivar el Entorno Virtual:**
     ```bash
