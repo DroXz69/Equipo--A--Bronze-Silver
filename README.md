@@ -51,7 +51,7 @@ El pipeline se ejecuta secuencialmente, moviendo los datos entre capas:
 
 Para ejecutar el pipeline, necesitarás **Python 3.8+** y las dependencias listadas en `requirements.txt`.
 
-Se Utilizo `Python 3.12.10` para la realizacion del proyecto. [Pagina Oficial de Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
+Se utilizo `Python 3.12.10` para la realizacion del proyecto. [Pagina Oficial de Python 3.12.10](https://www.python.org/downloads/release/python-31210/)
 
 ### 🚨 1. Preparación del Entorno (Una única vez)
 
