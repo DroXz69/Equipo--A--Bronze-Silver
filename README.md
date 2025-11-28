@@ -23,6 +23,15 @@ El pipeline se ejecuta secuencialmente, moviendo los datos entre capas:
 
 ---
 
+## 📊 Diagramas
+
+**Los diagramas estan el la carpeta** `Entregables-Diagramas`.
+
+* **Arquitectura**
+* **WorkFlow**
+
+---
+
 ## 👤👤 Equipo de Integrantes. 👤👤
 
 `Equipo A Bronze/Silver 5 Diciembre.`
